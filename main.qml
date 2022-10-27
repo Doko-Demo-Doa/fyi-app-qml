@@ -39,7 +39,7 @@ ApplicationWindow {
         Layout.fillWidth: true
         Layout.minimumWidth: 860
         Layout.minimumHeight: 480
-        anchors.margins: appWindow.margin
+        anchors.margins: root.margin
 
         Rectangle {
             color: "#000"

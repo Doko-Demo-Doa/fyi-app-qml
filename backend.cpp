@@ -1,7 +1,5 @@
-#include <windows.h>
 #include <QFileDialog>
 #include <QMessageBox>
-#include <string.h>
 #include "backend.h"
 
 Backend::Backend(QObject *parent) : QObject(parent)
